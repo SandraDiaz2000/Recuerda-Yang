@@ -115,7 +115,7 @@
         <div class="row">
                 <div class="col-lg-4 mb-4">
                 <div class="card h-100">
-                      <img src="\img\comunidades\concha.jpg" class="card-img-top" alt="Hollywood Sign on The Hill" style="width: 348px; height:350px;"/>
+                      <img src="\img\comunidades\concha.jpeg" class="card-img-top" alt="Hollywood Sign on The Hill" style="width: 348px; height:350px;"/>
                 <div class="card-body"  style="background-color: #a62424;">
                 <h5 class="card-title text-white">La Concepción</h5>
                   <p class="card-text text-white">Congregación</p>
@@ -203,7 +203,7 @@
                     </div>
                     <div class="col-lg-4 mb-4">
                     <div class="card h-100">
-                    <img src="\img\comunidades\pochote.jpg" class="card-img-top" alt="Palm Springs Road" style="width: 348px; height:350px;"/>
+                    <img src="\img\comunidades\pochote.jpeg" class="card-img-top" alt="Palm Springs Road" style="width: 348px; height:350px;"/>
                     <div class="card-body"  style="background-color: #a62424;">
                     <h5 class="card-title text-white">El Pochote</h5>
                     <p class="card-text text-white">Congregación</p>

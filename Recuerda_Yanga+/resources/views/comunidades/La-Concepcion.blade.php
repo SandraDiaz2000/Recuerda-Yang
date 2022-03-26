@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4">
                     <div class="img-container">
-                        <img src="\img\comunidades\concha.jpg" alt="team member" class="img-full">
+                        <img src="\img\comunidades\concha.jpeg" alt="team member" class="img-full">
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8">

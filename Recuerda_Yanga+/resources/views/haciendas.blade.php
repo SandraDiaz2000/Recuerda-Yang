@@ -65,7 +65,7 @@
                     <div class="card-body" style="background-color: #125e39;">
                         <h5 class="card-title text-white">San Francisco Las Mesillas</h5>
                         <p class="card-text text-white" style="text-align: justify;">
-                        Fundada en 1692..
+                        Fundada en 1692...
                     <p class="text-center"class="text-center"><a class="btn " href="{{ url('/Haciendas/Francisco-Mesillas') }}" role="button" style="background: white;">Ver más &raquo;</a></p>
      
                   </p>
@@ -122,7 +122,7 @@
               <div class="card-body" style="background-color: #125e39;">
               <h5 class="card-title text-white">San José de Abajo</h5>
               <p class="card-text text-white"style="text-align: justify;"> 
-                  Fue fundada en 1693
+                  Fue fundada en 1693...
                 <p class="text-center"class="text-center"><a class="btn " href="{{ url('/Haciendas/San-Jose-Abajo') }}" role="button" style="background: white;">Ver más &raquo;</a></p>
                 </p>
               </div>

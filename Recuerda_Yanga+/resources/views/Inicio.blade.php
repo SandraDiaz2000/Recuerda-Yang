@@ -120,7 +120,7 @@
               <div class="card-body" style="background-color: #eb9836;">
                   <h5 class="card-title text-white">Somos sitio de memoria</h5>
                   <p class="card-text text-white" style="text-align: justify;">
-                  Por la importancia histórica de San Jun de Ulúa como puerto de entrada de 
+                  Por la importancia histórica de San Juan de Ulúa como puerto de entrada de 
               miles de personas esclavizadas del continente africano y Yanga, como uno de 
               los primeros pueblos libres de africanos que huyeron de la esclavitud, ambos 
               lugares se consideran y fueron declarados sitios de memoria ante la UNESCO.
